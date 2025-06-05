@@ -20,7 +20,7 @@ MockAPI: Persistencia en la Nube
 Pasos para Ejecutar
 
 Clonar el repositorio
-bashgit clone https://github.com/tu-usuario/abm-alumnos.git
+bashgit clone https://github.com/LucasfVarela/Web_ABM_Alumnos.git
 
 Navegar al directorio
 bashcd abm-alumnos
