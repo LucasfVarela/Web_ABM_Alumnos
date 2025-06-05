@@ -2,6 +2,7 @@ ABM Alumnos 📚
 Sistema de gestión de alumnos (ABM - Alta, Baja, Modificación) desarrollado con HTML, CSS y JavaScript vanilla.
 Descripción
 Esta aplicación web permite gestionar información de estudiantes de manera sencilla y eficiente. Proporciona todas las funcionalidades básicas de un CRUD (Create, Read, Update, Delete) para el manejo de datos de alumnos.
+
 Características
 
 ✅ Alta de alumnos: Registro de nuevos estudiantes
@@ -17,8 +18,11 @@ Características
 Tecnologías Utilizadas
 
 HTML5: Estructura y marcado semántico
-CSS3: Estilos y diseño responsivo
+
+CSS3: Estilos 
+
 JavaScript ES6+: Lógica de la aplicación
+
 MockAPI: Persistencia en la Nube
 
 Pasos para Ejecutar
@@ -27,18 +31,25 @@ Clonar el repositorio
 bashgit clone https://github.com/LucasfVarela/Web_ABM_Alumnos.git
 
 Navegar al directorio
+
 bashcd abm-alumnos
 
 Abrir en el navegador
 
 Opción 1: Doble clic en el archivo .html
+
 Opción 2: Abrir con Vs Code (recomendado para desarrollo)
 
 Campos de Alumno
+
 Matricula 
+
 Nombre
+
 Apellido
+
 Email
+
 Carrera
 
 Capturas de Pantalla
