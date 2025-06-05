@@ -17,33 +17,22 @@ Características
 
 Tecnologías Utilizadas
 
- HTML5: Estructura y marcado semántico
-
- CSS3: Estilos 
-
- JavaScript ES6+: Lógica de la aplicación
-
- MockAPI: Persistencia en la Nube
+ HTML5: Estructura y marcado semántico - CSS3: Estilos - JavaScript ES6+: Lógica de la aplicación - MockAPI: Persistencia en la Nube
 
 Pasos para Ejecutar
 
- Clonar el repositorio
- bashgit clone https://github.com/LucasfVarela/Web_ABM_Alumnos.git
+ Clonar el repositorio =>  bashgit clone https://github.com/LucasfVarela/Web_ABM_Alumnos.gi
 
-Navegar al directorio
-
- bashcd abm-alumnos
-
- Abrir en el navegador
+Abrir en el navegador
 
  Opción 1: Doble clic en el archivo .html
 
  Opción 2: Abrir con Vs Code (recomendado para desarrollo)
 
 Campos de Alumno
-
- Matricula 
 {
+ Matricula, 
+
   Nombre,
 
   Apellido,
