@@ -5,9 +5,13 @@ Esta aplicación web permite gestionar información de estudiantes de manera sen
 Características
 
 ✅ Alta de alumnos: Registro de nuevos estudiantes
+
 ✅ Listado de alumnos: Visualización de todos los alumnos registrados
+
 ✅ Modificación: Edición de datos existentes
+
 ✅ Eliminación: Borrado de registros
+
 ✅ Almacenamiento por API: Los datos se guardan MockAPI.IO
 
 Tecnologías Utilizadas
